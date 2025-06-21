@@ -6,7 +6,7 @@
 #    By: marvin <marvin@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/09/20 18:05:45 by marvin            #+#    #+#              #
-#    Updated: 2025/02/16 23:42:43 by marvin           ###   ########.fr        #
+#    Updated: 2025/02/18 16:13:02 by marvin           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -29,16 +29,12 @@ MAKEFLAGS += --no-print-directory
 OPTIONS_PRINTED = /tmp/options_printed_$(shell echo $$USER)_$(shell basename $(shell pwd))
 
 SRC = \
-	Base.cpp \
-	A.cpp \
-	B.cpp \
-	C.cpp \
 	main.cpp
 
 OBJ_DIR = obj
 OBJ = $(patsubst %.cpp,$(OBJ_DIR)/%.o,$(SRC))
 
-NAME = cast
+NAME = templ
 RM = rm -rf
 CC = c++
 CFLAGS = -Wall -Wextra -std=c++98 -Werror
