@@ -14,6 +14,7 @@
 			</a>
 		</td>
 		<td style="vertical-align: middle; text-align: center;">
+			Namespaces, classes, member functions, stdio stream, initialization lists, static, const, and some other basic stuff
 		</td>
 		<td style="vertical-align: middle; text-align: center;">
 			<img src="https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/3719698">
@@ -28,6 +29,7 @@
 			</a>
 		</td>
 		<td style="vertical-align: middle; text-align: center;">
+			Memory allocation, pointers to members, references, switch statement
 		</td>
 		<td style="vertical-align: middle; text-align: center;">
 			<img src="https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/3912013">
@@ -42,6 +44,7 @@
 			</a>
 		</td>
 		<td style="vertical-align: middle; text-align: center;">
+			Polymorphism, operator overloading and Orthodox Canonical class form
 		</td>
 		<td style="vertical-align: middle; text-align: center;">
 			<img src="https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/3917185">
@@ -56,6 +59,7 @@
 			</a>
 		</td>
 		<td style="vertical-align: middle; text-align: center;">
+			Inheritance
 		</td>
 		<td style="vertical-align: middle; text-align: center;">
 			<img src="https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/3920756">
@@ -70,6 +74,7 @@
 			</a>
 		</td>
 		<td style="vertical-align: middle; text-align: center;">
+			Subtype polymorphism, abstract classes, interfaces
 		</td>
 		<td style="vertical-align: middle; text-align: center;">
 			<img src="https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/3923060">
@@ -87,6 +92,7 @@
 			</a>
 		</td>
 		<td style="vertical-align: middle; text-align: center;">
+			Exceptions
 		</td>
 		<td style="vertical-align: middle; text-align: center;">
 			<img src="https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/4303917">
@@ -101,6 +107,7 @@
 			</a>
 		</td>
 		<td style="vertical-align: middle; text-align: center;">
+			Casts
 		</td>
 		<td style="vertical-align: middle; text-align: center;">
 			<img src="https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/4307859">
@@ -115,6 +122,7 @@
 			</a>
 		</td>
 		<td style="vertical-align: middle; text-align: center;">
+			Templates
 		</td>
 		<td style="vertical-align: middle; text-align: center;">
 			<img src="https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/4331006">
@@ -129,6 +137,7 @@
 			</a>
 		</td>
 		<td style="vertical-align: middle; text-align: center;">
+			Templated containers, iterators, algorithms
 		</td>
 		<td style="vertical-align: middle; text-align: center;">
 			<img src="https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/4340644">
