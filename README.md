@@ -80,5 +80,33 @@
 	<tr>
 		<th colspan="3" style="text-align: center; line-height: 10px;">Part two</th>
 	</tr>
+	<tr>
+		<td style="vertical-align: middle; text-align: center;">
+			<a href="https://github.com/Baarrbb/42-piscine_CPP/tree/master/Module05">
+				<img src="https://img.shields.io/badge/Module05-0?style=for-the-badge&logo=cplusplus&logoColor=blue&labelColor=e0e0e0&color=99ccff">
+			</a>
+		</td>
+		<td style="vertical-align: middle; text-align: center;">
+		</td>
+		<td style="vertical-align: middle; text-align: center;">
+			<img src="https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/4303917">
+			<br>
+			<img src="https://img.shields.io/badge/23.05.2025-0?style=plastic&color=818181">
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align: middle; text-align: center;">
+			<a href="https://github.com/Baarrbb/42-piscine_CPP/tree/master/Module06">
+				<img src="https://img.shields.io/badge/Module06-0?style=for-the-badge&logo=cplusplus&logoColor=blue&labelColor=e0e0e0&color=99ccff">
+			</a>
+		</td>
+		<td style="vertical-align: middle; text-align: center;">
+		</td>
+		<td style="vertical-align: middle; text-align: center;">
+			<img src="https://badge.nimon.fr/api/v2/clxvo3eb3048601pgqc1udwjw/project/4307859">
+			<br>
+			<img src="https://img.shields.io/badge/11.06.2025-0?style=plastic&color=818181">
+		</td>
+	</tr>
 	
 </table>
